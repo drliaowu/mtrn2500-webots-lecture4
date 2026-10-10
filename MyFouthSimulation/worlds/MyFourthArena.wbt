@@ -38,7 +38,7 @@ WoodenBox {
 }
 E-puck {
   name "EPuckGreen"
-  controller "EPuckGreenPlusControllerSln"
+  controller "EPuckGreenPlusController"
   receiver_channel 2
   turretSlot [
     GPS {
